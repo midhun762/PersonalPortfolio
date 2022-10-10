@@ -9,7 +9,9 @@ body{font-family:'Times New Roman', Times, serif;
     border-radius: 3em;
  }
  #home-button:hover{
-    background-color: rgb(255, 0, 0,75%);
+    background-color: rgba(77, 209, 36, 0.75);
+    color: black;
+    border-radius: 1rem;
  }
  .certification1:hover{
 color: rgb(19, 40, 133);
